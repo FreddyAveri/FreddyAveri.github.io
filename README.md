@@ -1,2 +1,2 @@
-# FreddyAveri.github.io
+# Аверин Фёдор
 Мой первый сайт
